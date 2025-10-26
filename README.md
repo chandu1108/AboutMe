@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chandan Kumar M
 =======================================================================================================================================
 
-Cybersecurity | Graphic Designing | EthicalHacking
+Java Full-Stack | Graphic Designing | EthicalHacking
 --------------------------------------------------
 
-Currently I'm pursuing Third year BE in Alva's Institute of Engineering and Technology, I am passionate about Ethical Hacking, Graphical Designing, Web Development.
+Currently I'm looking for an Opportunity and i have completed my BE in Alva's Institute of Engineering and Technology with 9.07CGPA, I am passionate about Java Full-Stack Development, Graphical Designing, Ethical Hacking.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [chandankumarm10404@gmail.com](mailto:chandankumarm10404@gmail.com)
+* ✉️  You can contact me at [E-Mail](mailto:chandankumarm10404@gmail.com)
 * 🧠  I'm a learner, I'm Currently learning about Ethical Hacking
 * 🤝  I'm open to collaborating on Cybersecurity and Designing fields
 
